@@ -12,8 +12,8 @@
  2. Different message format depending on car manufacture/model 
  3. Unit transformation (minor)
  #### Result 
- This app provides vehicle data from OBD-II port. ![Vehicle data](screen2.jpg) Using Google MAP API, I added human-readable address information from a pair of geocode(latitude/longitude) using Reverse Geocoding. Applied AsyncTask to work in the background from UI thread. If Geocoder return multiple addresses then displays the top one however, it does not return any value then provide error message.
- Once the car slows down by listeing Vehicle speed information , I used notifies the user about current traffic status. ![Notification](screen1.jpg)
+ This app provides vehicle data from OBD-II port. ![Vehicle data](screen2.jpg=50x100) Using Google MAP API, I added human-readable address information from a pair of geocode(latitude/longitude) using Reverse Geocoding. Applied AsyncTask to work in the background from UI thread. If Geocoder return multiple addresses then displays the top one however, it does not return any value then provide error message.
+ Once the car slows down by listeing Vehicle speed information , I used notifies the user about current traffic status. ![Notification](screen1.jpg=50x100)
  
  
 
