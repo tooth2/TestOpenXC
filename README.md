@@ -1,5 +1,5 @@
 # TestOpenXC
- Testing android app for reading Ford vehicle data
+ **An Android app for reading Ford vehicle data from OBDII interface**
  #### openXC
  OpenXC™ allows smart phones, to access data from any vehicle. Using OpenXC™, user can monitor many of the sensors on a vehicle, enabling new and innovative vehicle-centric applications. Some data is required by law and more can be unlocked with support from an automaker - or a little reverse engineering effort!
  #### Required: OBDII/Vehicle Interface
