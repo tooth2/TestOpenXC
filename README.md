@@ -13,10 +13,10 @@
  3. Unit transformation (minor)
  #### Result 
  This app provides vehicle data from OBD-II port.  
- <img src="screen2.jpg" alt="vehicle data" style="width:50px;ehight:100px"/>
+ <img src="screen2.jpg" alt="vehicle data" width="50"/>
  Using Google MAP API, I added human-readable address information from a pair of geocode(latitude/longitude) using Reverse Geocoding. Applied AsyncTask to work in the background from UI thread. If Geocoder return multiple addresses then displays the top one however, it does not return any value then provide error message.
  Once the car slows down by listeing Vehicle speed information , I used notifies the user about current traffic status. 
- <img src="screen1.jpg" alt="traffic notification" style="width:50px;ehight:100px"/>
+ <img src="screen1.jpg" alt="traffic notification" width="50"/>
  
  
 
