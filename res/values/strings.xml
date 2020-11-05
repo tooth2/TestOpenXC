@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestOpenXC</string>
+    <string name="action_settings">Map</string>  
+
+      <string name="vehicle_speed_label">Vehicle Speed</string>
+    <string name="steering_wheel_angle_label">Steering Wheel Angle</string>
+
+    <string name="fuel_consumed_label">Fuel Consumed</string>
+    <string name="fuel_level_label">Fuel Level</string>
+    <string name="odometer_label">Odometer</string>
+    
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="android_latitude_label">Android Latitude</string>
+    <string name="android_longitude_label">Android Longitude</string>
+
+    <string name="engine_speed_label">Engine Speed</string>
+    <string name="transmission_gear_pos_label">
+        Transmission Gear Position
+    </string>
+ <!--   <string name="torque_at_transmission_label">Torque At Transmission</string>-->  
+    
+        <string name="address">Address:</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+    <string name="latlng">Lat/Long:</string>
+    <string name="unknown">--Unknown--</string>
+    <string name="not_support_gps">GPS provider not supported</string>
+    <string name="not_support_network">Network provider not supported</string>
+    <string name="use_fine_provider">Fine-grain provider</string>
+    <string name="use_both_providers">Both providers</string>
+    
+</resources>
